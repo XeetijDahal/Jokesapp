@@ -16,7 +16,7 @@ A fun and interactive web app that fetches random jokes from the [Official Joke 
 ## Screenshots
 
 ### Initial Screen
-![Joke Intro](images/jokesintro.png)
+![Joke Intro](images/jokeintro.png)
 
 ###  Joke Displayed
 ![Joke Shown](images/jokesshown.png)
